@@ -16,10 +16,7 @@ To use this project follow this steps.
 02. Install packages
 
     ```markdown
-    $ npm install react
-    $ npm install react-cli
-    $ npm install firebase
-    $ npm install trim
+    $ npm install
     ...
     ```
 03. Development
